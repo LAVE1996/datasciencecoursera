@@ -46,14 +46,15 @@ When you are finished with the assignment, push your git repository to GitHub so
 
 The four plots that you will need to construct are shown below.
 
-Plot 1
-plot of chunk unnamed-chunk-2
+plot 1
+![image](https://user-images.githubusercontent.com/82660322/121891467-19866480-cd39-11eb-8e72-39a7a7ffcbd7.png)
+plot 2
+![image](https://user-images.githubusercontent.com/82660322/121891517-2a36da80-cd39-11eb-85ae-6304e2056752.png)
+plot 3
+![image](https://user-images.githubusercontent.com/82660322/121891556-3753c980-cd39-11eb-8ad1-e9901f656c74.png)
+plot 4
+![image](https://user-images.githubusercontent.com/82660322/121891577-4175c800-cd39-11eb-9a85-ea034f5e5ada.png)
 
-Plot 2
-plot of chunk unnamed-chunk-3
 
-Plot 3
-plot of chunk unnamed-chunk-4
 
-Plot 4
-plot of chunk unnamed-chunk-5
+
