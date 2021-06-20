@@ -1,4 +1,5 @@
 Introduction
+
 This assignment uses data from the UC Irvine Machine Learning Repository, a popular repository for machine learning datasets. In particular, we will be using the "Individual household electric power consumption Data Set" which I have made available on the course web site:
 
 Dataset: Electric power consumption [20Mb]
@@ -28,6 +29,7 @@ You may find it useful to convert the Date and Time variables to Date/Time class
 Note that in this dataset missing values are coded as ?.
 
 Making Plots
+
 Our overall goal here is simply to examine how household energy usage varies over a 2-day period in February, 2007. Your task is to reconstruct the following plots below, all of which were constructed using the base plotting system.
 
 First you will need to fork and clone the following GitHub repository: https://github.com/rdpeng/ExData_Plotting1
@@ -48,10 +50,13 @@ The four plots that you will need to construct are shown below.
 
 plot 1
 ![image](https://user-images.githubusercontent.com/82660322/121891467-19866480-cd39-11eb-8e72-39a7a7ffcbd7.png)
+
 plot 2
 ![image](https://user-images.githubusercontent.com/82660322/121891517-2a36da80-cd39-11eb-85ae-6304e2056752.png)
+
 plot 3
 ![image](https://user-images.githubusercontent.com/82660322/121891556-3753c980-cd39-11eb-8ad1-e9901f656c74.png)
+
 plot 4
 ![image](https://user-images.githubusercontent.com/82660322/121891577-4175c800-cd39-11eb-9a85-ea034f5e5ada.png)
 
